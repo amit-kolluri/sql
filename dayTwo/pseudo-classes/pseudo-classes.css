@@ -1,0 +1,40 @@
+body{
+	background-color: #eee;
+	align-items: center;
+}
+
+.container{
+	padding-left: 100px;
+	padding-right: 100px;
+	font-family: calibri;
+	font-size: 50px;	
+}
+
+
+
+
+
+a:link {
+	
+	#apple{
+		color: yellow;
+	}
+
+	#microsoft{
+		color: black;
+
+	}
+}
+a:visited {
+	color: #00FF00;
+}
+a:hover {
+	font-family: 'Gaegu', cursive;
+	font-size: 35px;
+	color: red;
+
+}
+
+a:active {
+	color: #0000FF;
+}

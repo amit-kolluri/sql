@@ -1,0 +1,50 @@
+body{
+	background-color: #eee;
+	padding-left: 400px;
+	padding-right: 400px;
+	text-align: center;
+	
+}
+.box1{
+	
+	position: fixed;
+	width: 500px;
+	height: 200px;
+	background-color: yellow;
+	left: 0px;
+
+	
+}
+
+.container{
+	clear: left;clear: right;
+	float: left;
+
+}
+#box2{
+
+	
+	position: relative;
+	width: 500px;
+	height: 200px;
+	background-color: red;
+	left: 0px;
+
+	
+
+}
+
+
+#box3{
+
+	
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	left: 800px;
+	top: 700px;
+
+	
+
+}
